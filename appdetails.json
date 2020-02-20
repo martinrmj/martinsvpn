@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"116.203.25.116","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Essen","country":"United States","image":"germany","ip":"us1.vpnbook.com","active":"true","signal":"b"},
 
   ]
 }
